@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "DTW.h"
+#include "mydtw.h"
 
 int main() {
     double p = 2; // the p-norm to use; 2.0 = euclidean, 1.0 = manhattan
